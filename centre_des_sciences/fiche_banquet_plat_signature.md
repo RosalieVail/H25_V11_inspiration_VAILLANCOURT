@@ -23,6 +23,9 @@ Photo par Alain Roberge, la Presse. https://www.lapresse.ca/gourmand/centre-des-
 
 ![photo](media/prem_dessert.jpg) **Photo par Rosalie Vaillancourt** ![photo](media/deux_dessert.jpg) **Photo par Rosalie Vaillancourt** ![photo](media/trois_dessert.jpg) **Photo par Rosalie Vaillancourt**
 
+## Plaque en argent ##
+![photo](media/vue_ensemble_Alain_Roberge_Presse.png)
+
 ## Mes opinions ##
-J'ai trouver l'exposition tres interessante et j'ai choisi ce dispositife puisque qu'il etait simple mais tres captivant a la fois. Par contre, j'ai trouver que le son n'etait pas tres fort et l'audio etait difficle a comprendre. Toutefois, cet une belle exposition qui vaut la penne.
+J'ai trouvé l'exposition très intéressante et j'ai choisi ce dispositife puisque qu'il etait simple mais tres captivant a la fois. Par contre, j'ai trouver que le son n'etait pas tres fort et l'audio etait difficle a comprendre. Toutefois, cet une belle exposition qui vaut la penne.
 
