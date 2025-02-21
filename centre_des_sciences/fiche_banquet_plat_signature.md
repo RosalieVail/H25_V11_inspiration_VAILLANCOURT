@@ -1,5 +1,5 @@
 ## Le Banquet ##
-![photo](media/affiche_entree.png)
+![photo](media/image.jpg)
 **Photo par Sara Pop**
 
 Le Banquet est une exposition temporaire et interactive qui se trouve au centre des science de Montreal. Cette exposition nous fais parcourir le milieu de la gastronomie toute en etant interessante mais aussi en sachant garder notre attention avec les multiple dispositif qui nous sont offert. Je souhaite donc vous partager les nombreuses decourte que j'ai fait la visite de cette exposition le 31 janvier 2025. https://www.centredessciencesdemontreal.com/exposition-temporaire/l-exposition-interactive-banquet
