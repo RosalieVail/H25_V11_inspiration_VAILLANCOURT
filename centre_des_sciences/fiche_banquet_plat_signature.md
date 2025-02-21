@@ -4,7 +4,6 @@
 
 Le Banquet est une exposition temporaire et interactive qui se trouve au centre des science de Montreal. Cette exposition nous fais parcourir le milieu de la gastronomie toute en etant interessante mais aussi en sachant garder notre attention avec les multiple dispositif qui nous sont offert. Je souhaite donc vous partager les nombreuses decourte que j'ai fait la visite de cette exposition le 31 janvier 2025. https://www.centredessciencesdemontreal.com/exposition-temporaire/l-exposition-interactive-banquet
 
-![photo](media/family_photo.jpg)
 
 ## Les plats signatures ##
 ![photo](media/ensemble_Les_Plats_Signatures.png)
@@ -24,8 +23,15 @@ Photo par Alain Roberge, la Presse. https://www.lapresse.ca/gourmand/centre-des-
 ![photo](media/prem_dessert.jpg) **Photo par Rosalie Vaillancourt** ![photo](media/deux_dessert.jpg) **Photo par Rosalie Vaillancourt** ![photo](media/trois_dessert.jpg) **Photo par Rosalie Vaillancourt**
 
 ## Plaque en argent ##
-![photo](media/vue_ensemble_Alain_Roberge_Presse.png)
+![photo](media/anne_sophie_pic.jpg) ![photo](media/mory_sacko.jpg) ![photo](media/sebastien_bras.)
 
-## Mes opinions ##
-J'ai trouvé l'exposition très intéressante et j'ai choisi ce dispositife puisque qu'il etait simple mais tres captivant a la fois. Par contre, j'ai trouver que le son n'etait pas tres fort et l'audio etait difficle a comprendre. Toutefois, cet une belle exposition qui vaut la penne.
+# Composante fournies #
+-Table
+-Fils audio
+-ecran/fils pour l'ecran
+-haut-parleur
 
+## Mon opinion ##
+J'ai trouvé l'exposition très intéressante et j'ai choisi ce dispositife puisque qu'il etait simple mais tres captivant a la fois. Par contre, j'ai trouver que le son n'etait pas tres fort et l'audio etait difficle a comprendre. Toutefois, cet une belle exposition qui vaut la penne. Malgre cela j'ai trouver que c'etais une belle sorite a faire et surtout entre amis. 
+
+![photo](media/family_photo.jpg)
