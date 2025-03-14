@@ -10,4 +10,8 @@ Luminatura est un project multimédia qui mélange nature et technologie que nou
 
 Le dispositif vise à nous présenter et à nous faire vivre une expérience immersive et intéractive.
 
+## Plaque et dispositif sonore ##
 
+![photo](media/plaque.jfif)
+
+>**photo par Rosalie Vaillancourt**
