@@ -1,3 +1,4 @@
-# Projets finissants de la Technique d'Introduction en Multimédia
+## Projets finissants de la Technique d'Introduction en Multimédia ##
 
 ![photo](media/presentation_projet.jpg)
+**photo par Rosalie Vaillancourt**
