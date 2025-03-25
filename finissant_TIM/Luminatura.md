@@ -18,13 +18,23 @@ Le dispositif, créée par Audrey, Justine, Camilia, Prethiah et Ihab, vise à n
 ![photo](media/plaque.jpg.jpg)
 
 >**photo par Rosalie Vaillancourt**
->Plaque en acier
->Minicontrôleur
->Trois résisteurs
->Cable Ethernet
->Ruban adhésif métalique
->Cable en acier
->Trépied
->Deux supports imprimés en 3D
+__
+
+-Plaque en acier
+
+-Minicontrôleur
+
+-Trois résisteurs
+
+-Cable Ethernet
+
+-Ruban adhésif métalique
+
+-Cable en acier
+
+-Trépied
+
+-Deux supports imprimés en 3D
+__
 
 Le coeur de l'intéraction est dans les plaques de métal
