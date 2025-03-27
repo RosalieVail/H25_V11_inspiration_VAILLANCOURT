@@ -2,9 +2,9 @@
 
 Du 17 au 21 mars, les élèves finissants de la Technique d'Introduction en Multimédia nous ont présenter sept projets qu'ils ont réaliser. C'est projet intéractif, certains sonore, visuelle alors que d'autre sont emotionelle ou philosophique, explore l'intéraction humaine avec la technologie. 
 
-![photo](media/resonanceBanner.mp4)
+![photo](media/carte.png)
 
->**photo par Rosalie Vaillancourt**
+>[link]https://tim-montmorency.com/2025/#/
 
 ## Internature ##
 
@@ -46,3 +46,4 @@ Dans cette experience interactive, lorsque la sphere est en mouvement, le mappin
 
 J'ai trouver l'experience tres agreable, j'ai trouver l'idee tres creative et bien fait. Je trouve que se projet immersif est tres apaisant mais aussi amusant a faire fonctionner.
 
+![photo](media/)
