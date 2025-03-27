@@ -29,3 +29,20 @@ Se projet est fonctionnel grace a:
 ## Visuel ##
 
 Dans cette experience interactive, lorsque la sphere est en mouvement, le mapping video va s'accroitre selon la direction de la sphere pour projeter des plante synthetique sur les parois du tunnel. Si l'uilisateur arrete, l'animation va donc regresser jusqu'a disparaitre jusqu'au prochain mouvement. De plus, lorsque la sphere est en mouvement, une musique qui diffusera un ambiance cakme et sombre se mettra a jouer en boucle.
+
+![photo](media/plantation_studio.jpg)
+
+>**photo par l'equipe d'Internature**
+
+![photo](media/plantation_sphere.jpg)
+
+>**photo par l'equipe d'Internature**
+
+![photo](media/plantation_serre_3d.jpg)
+
+>**photo par l'equipe d'Internature**
+
+## Experience personelle ##
+
+J'ai trouver l'experience tres agreable, j'ai trouver l'idee tres creative et bien fait. Je trouve que se projet immersif est tres apaisant mais aussi amusant a faire fonctionner.
+
