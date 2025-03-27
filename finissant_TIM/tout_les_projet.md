@@ -8,7 +8,7 @@ Du 17 au 21 mars, les élèves finissants de la Technique d'Introduction en Mult
 
 ## Internature ##
 
-Internature est un tunnel interactif ou le visiteur peut controler l'evolution des projections qui recree des plante en manipulant une sphere. Cette experience immersive, semblable au mythe de Sisyphe, nous presente une sphere que nous pouvons bouger et qui provoque la croissance de plantes qui sont projeter sur les parois du tunel. 
+Cree par Khaly, Isaac, Delphine, Sitmontemna et Kenza, Internature est un tunnel interactif ou les visiteurs peuvent controler l'evolution des projections qui recree des plante en manipulant une sphere. Cette experience immersive, semblable au mythe de Sisyphe, nous presente une sphere que nous pouvons bouger et qui provoque la croissance de plantes qui sont projeter sur les parois du tunel. 
 
 Se projet est fonctionnel grace a:
 
@@ -46,4 +46,14 @@ Dans cette experience interactive, lorsque la sphere est en mouvement, le mappin
 
 J'ai trouver l'experience tres agreable, j'ai trouver l'idee tres creative et bien fait. Je trouve que se projet immersif est tres apaisant mais aussi amusant a faire fonctionner.
 
-![photo](media/)
+![photo](media/tyler_plantation.jpg)
+
+>**photo par Rosalie Vaillancourt**
+
+
+## Etheria ##
+
+Cree par Joshua, Victor, Michael, Pierre-Luc et Maik, Etheria est un projet interactif pixeliser qui nous presente un jeu de plusieurs manche. Les utilisateurs utiliser des figures ou pions pour defendre une pierre des ennemies. De plus, le jeu se deroule dans un univers fantastique et des "power-up" peuvent etre recolter mais rendre le jeu plus difficile.
+
+Cette activite interactive vise a creer un univers fantastique ou les utilisateurs doivent collaborer pour reussir le jeu
+
