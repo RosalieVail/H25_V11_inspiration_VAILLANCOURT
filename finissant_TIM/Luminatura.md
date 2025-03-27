@@ -1,6 +1,6 @@
 ## Projets Luminatura de la Technique d'Introduction en Multimédia ##
 
-Résonance est une exposotion intéractive et temporaire, présenter par les finissant et finissante de la technique d'introduction en multimédia. Cette exposition est présenter dans le grand studio du Collège Montmorency. Lors de notre visite le 18 mars 2025, nous avons pus observer chaque projet, qui explore un angle unique d'interaction humaines, de reflexion avec la nature ou d'onde émotionelle. 
+Résonance est une exposotion intéractive et temporaire, présenter par les finissants et finissantes de la technique d'introduction en multimédia. Cette exposition est présenter dans le grand studio du Collège Montmorency. Lors de notre visite le 18 mars 2025, nous avons pus observer chaque projet, qui explore un angle unique d'interaction humaines, de reflexion avec la nature ou d'onde émotionelle. 
 
 
 ![photo](media/presentation_projet.jpg)
