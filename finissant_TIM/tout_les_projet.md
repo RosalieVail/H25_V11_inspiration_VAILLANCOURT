@@ -6,6 +6,44 @@ Du 17 au 21 mars, les élèves finissants de la Technique d'Introduction en Mult
 
 >[link]https://tim-montmorency.com/2025/#/
 
+
+## 1. Luminatura ##
+
+Luminatura est un project multimédia qui mélange nature et technologie que nous présente cinq étudiant de dernière année ici, au collège Montmorency. Cette installation intéractive où des fleurs illuminées, des vignes, et des lanternes réagissent au simple contacte de notre peau. Le dispositif, créée par Audrey, Justine, Camilia, Prethiah et Ihab, vise à nous présenter et à nous faire vivre une expérience immersive et intéractive.
+
+## Plaque et dispositif sonore ##
+
+![photo](media/plaque.jpg.jpg)
+
+>**photo par Rosalie Vaillancourt**
+
+Le coeur de l'intéraction est dans les plaques de métal que les gens peuvent manipuler et qui feras apparaître des lumières. Deplus, des effets sonore inspiré de la nature par exemple, un ruisseau, des oiseaux ou bien des murmures, sont émis se qui crée une ambiance apaisante qui accompagne le visiteur dans son expérience immersive. 
+
+-Plaque en acier
+
+-Minicontrôleur
+
+-Trois résisteurs
+
+-Cable Ethernet
+
+-Ruban adhésif métalique
+
+-Cable en acier
+
+-Trépied
+
+-Deux supports imprimés en 3D
+
+## Expérience personelle ##
+
+J'ai personellement beaucoup aimer l'activté interactive. J'ai trouvés se projet très apaisant et créatif. L'intéractivité est très bien effectuer et nous fais voyager avec les lumière et les sons qui se dégage de cette oeuvre. J'ai aussi trouver que les fleur était très joli et bien fait, ont voit les efforts qu'y ont été mis dans se projet et la beauté qui en ressort.
+
+![photo](media/pink_flower.jfif)
+
+>**photo par Rosalie Vaillancourt**
+
+
 ## 2. Internature ##
 
 Créé par Khaly, Isaac, Delphine, Sitmontemna et Kenza, Internature est un tunnel interactif où les visiteurs peuvent controler l'évolution des projections qui recréer des plantes en manipulant une sphère. Cette expérience immersive, semblable au mythe de Sisyphe, nous présente une sphère que nous pouvons bouger et qui provoque la croissance des plantes qui sont projetée sur les parois du tunel. 
@@ -174,11 +212,11 @@ Créé par Dominic, William et Anton, Arcadia est un project intéractif qui rep
 
 ![photo](media/borne1.jfif)
 
->**photo par Rosalie Vaillancourt**
+>**photo par l'équipe d'Arcadia**
 
 ![photo](media/borne2.jfif)
 
->**photo par Rosalie Vaillancourt**
+>**photo par l'équipe d'Arcadia**
 
 Se projet est fonctionnel grace à:
 
@@ -196,7 +234,9 @@ Se projet est fonctionnel grace à:
 
 J'ai trouver le jeux amusant mais moins captivant que les autres. J'ai bien aimer le style rétro qui rappelais les jeux d'arcade et la borne finale. Le jeux étais bien mais il a moins retenue mon attention.
 
-![photo](media/borne1.jfif)
+![photo](media/cabinet_studio.jpg)
+
+>**photo par l'équipe d'Arcadia**
 
 ## 7. Etheria ##
 
