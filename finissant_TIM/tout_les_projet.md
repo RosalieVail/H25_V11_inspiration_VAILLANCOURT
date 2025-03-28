@@ -42,7 +42,7 @@ Dans cette expérience interactive, lorsque la sphère est en mouvement, le mapp
 
 >**photo par l'équipe d'Internature**
 
-## Experience personelle ##
+## Expérience personelle ##
 
 J'ai trouvé l'experience très agréable, j'ai trouvé l'idée très créative et bien fait. Je trouve que se projet immersif est très apaisant mais aussi amusant à faire fonctionner.
 
@@ -88,7 +88,7 @@ Se projet est fonctionelle grace à:
 
 >**photo par l'équipe de Fuga**
 
-## Experience personelle ##
+## Expérience personelle ##
 
 J'ai trouver l'expérience très relaxante et captivante à la fois. Je trouve que le projet était très créatif et démontre que la technologie peut être de bonne usure avec l'environnement
 
@@ -96,7 +96,7 @@ J'ai trouver l'expérience très relaxante et captivante à la fois. Je trouve q
 
 >**photo par Rosalie Vaillancourt**
 
-## .4 Prismatica ##
+## 4. Prismatica ##
 
 Créé par Vincent, Ikrame et Jeremy, Prismatica est une installation intéractive qui repose sur la chrosmesthesie, les sons étant perçu par les couleurs. Grâce à une camera connecter à TouchDesigner, elle analyse depuis un tableau blanc se que l'utilisateur dessine. Chaque couleurs joue un son specifique basée sur le cercle chromatique transformant le dessin en une expérience multisensorielle dans laquelle les sons, les couleurs et les images, fusionne.
 
@@ -128,17 +128,23 @@ Se projet est fonctionnel grace à:
 
 -Crayon feutre/Tableau blanc
 
-## Experience personelle ##
+## Expérience personelle ##
 
 J'ai trouver le project très créatif. C'est un projet simple mais très amusant et apaisant avec la musique.
 
 ![photo](media/prisma_couleur.jpg)
 
-## C0N DU8 ##
+>**photo par Rosalie Vaillancourt**
+
+## 5. C0N DU8 ##
 
 Créé par Ian, Samuel, Alexandre, Kevin, Jérémy, C0N DU8 est un jeu d'arcade. L'utilisateur prend contrôle d'un personnage, les plongeant dans une course. Les utlisateurs devront courser sur une piste, le personnage contrôler par un vrai velo que les gens doivent pédaler.
 
-![photo](media/prisma_couleur.jpg)
+## Visuel ##
+
+![photo](media/velo_1.jpg)
+
+>**photo par Rosalie Vaillancourt**
 
 Se projet est fonctionnel grace à:
 
@@ -150,10 +156,21 @@ Se projet est fonctionnel grace à:
 
 -Projecteur
 
+La vitesse à laquelle l'utilisateur pédal est la vitesse à laquelle sont personnage dans le jeu. Le vélo stationnaire sur lequelle les gens s'assise pour jouer, est équiper de capteurs qui détecte la position du joueur. Il permet de démarrer le jeu et de contrôler le véhicule du jeu. 
 
+## Expérience personelle ##
 
+J'ai trouver se projet très captivant et amusant. Je trouve que c'est le genre de jeux que tout le monde aime et veulent essayer. C'étais simple mais créatif et bien exécuter.
 
+![photo](media/velo_2.jpg)
 
+>**photo par Rosalie Vaillancourt**
+
+## 6. Arcadia ##
+
+Créé par Dominic, William et Anton, Arcadia est un project intéractif qui reproduit un jeux d'arcade et propose au utilisateur un voyage nostalique. Le bus d'Arcadia est de recréer un expérience authentique dans les salle d'arcade, avec des design rétro et un atmosphère vintage, rendent hommage au jeu pixéliser.
+
+![photo](media/velo_2.jpg)
 
 ## 7. Etheria ##
 
