@@ -130,7 +130,9 @@ Se projet est fonctionnel grace à:
 
 ## Experience personelle ##
 
-J'ai trouver
+J'ai trouver le project très créatif. C'est un projet simple mais très amusant et apaisant avec la musique.
+
+![photo](media/image_acceuil_2.jpg)
 
 ## 7. Etheria ##
 
