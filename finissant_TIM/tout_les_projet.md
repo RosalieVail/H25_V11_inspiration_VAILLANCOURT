@@ -48,22 +48,39 @@ J'ai trouver l'experience tres agreable, j'ai trouver l'idee tres creative et bi
 
 ![photo](media/tyler_plantation.jpg)
 
->**photo par Rosalie Vaillancourt**
-
+>**photo par Rosalie Vaillancourt** 
 
 ## 3. Fuga ##
 
 Cree par Matis, Tristan, Daniel, Abdel, Yavuz, Fuga est une installation interactive permettant au utilisateur de creer une arbre en 3D en manipulant un generateur de signaux qui produit des sons, permettant la croissance de l'arbre. Les utilisateur peuvent exoerimenter les frequence et les parametre pour trouver le bon equilibre. Le projet permet un environnment calme et unique et demontre qu'on peut utiliser la technologie de maniere responsable et reflechie. 
 
-![photo](media/tyler_plantation.jpg)
+![photo](media/fuga.jpg)
 
+Se projet est fonctionelle grace a:
 
+-Instrument de musique
 
+-Televisions
 
+-Deux haut-parleur
 
+-Decor recycler
 
+-Acessoir (Cable, support, carte audio/video)
 
+![photo](media/fuga_plaque.jpg)
 
+>**photo par Rosalie Vaillancourt** 
+
+![photo](media/fuga_parametre.jpg)
+
+>**photo par Rosalie Vaillancourt** 
+
+## Visuel ##
+
+![photo](media/.jpg)
+
+![photo](media/.jpg)
 
 ## 7. Etheria ##
 
