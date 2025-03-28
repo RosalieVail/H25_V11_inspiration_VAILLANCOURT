@@ -56,6 +56,8 @@ Créé par Matis, Tristan, Daniel, Abdel, Yavuz, Fuga est une installation inté
 
 ![photo](media/fuga.jpg)
 
+>**photo par Rosalie Vaillancourt**
+
 Se projet est fonctionelle grace à:
 
 -Instrument de musique
@@ -80,7 +82,11 @@ Se projet est fonctionelle grace à:
 
 ![photo](media/plantation-side.png)
 
+>**photo par l'équipe de Fuga**
+
 ![photo](media/fuga-face.png)
+
+>**photo par l'équipe de Fuga**
 
 ## Experience personelle ##
 
@@ -88,17 +94,23 @@ J'ai trouver l'expérience très relaxante et captivante à la fois. Je trouve q
 
 ![photo](media/fuga_2.jpg)
 
+>**photo par Rosalie Vaillancourt**
+
 ## .4 Prismatica ##
 
 Créé par Vincent, Ikrame et Jeremy, Prismatica est une installation intéractive qui repose sur la chrosmesthesie, les sons étant perçu par les couleurs. Grâce à une camera connecter à TouchDesigner, elle analyse depuis un tableau blanc se que l'utilisateur dessine. Chaque couleurs joue un son specifique basée sur le cercle chromatique transformant le dessin en une expérience multisensorielle dans laquelle les sons, les couleurs et les images, fusionne.
 
 ![photo](media/prisma_sombre.jpg)
 
+>**photo par Rosalie Vaillancourt**
+
 ## Visuel ##
 
 L'installation repose sur la projection en temps réel des projects des utilisateurs. À la fin, le dessin s'efface progressivement, pour laisser place à la prochaine oeuvre.
 
-![photo](media/prisma_sombre.jpg)
+![photo](media/image_acceuil_2.jpg)
+
+>**photo par l'équipe de Prismatica**
 
 ## 7. Etheria ##
 
@@ -107,6 +119,8 @@ Créé par Joshua, Victor, Michael, Pierre-Luc et Maik, Etheria est un projet in
 Cette activité interactive vise à créer un univers fantastique ou les utilisateurs doivent collaborer pour réussir le jeu
 
 ![photo](media/jeu_table.jpg)
+
+>**photo par Rosalie Vaillancourt**
 
 Se projet est fonctionelle grace à:
 
@@ -121,6 +135,8 @@ Se projet est fonctionelle grace à:
 -Lumières infrarouges/lumière avec projecteur
 
 ![photo](media/jeu_fonctionnement.jpg)
+
+>**photo par Rosalie Vaillancourt**
 
 ## Experience personelle ##
 
