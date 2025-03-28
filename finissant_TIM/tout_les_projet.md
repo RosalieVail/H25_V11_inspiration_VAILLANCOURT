@@ -86,7 +86,13 @@ Se projet est fonctionelle grace a:
 
 J'ai trouver l'experience tres relaxante et captivante a la fois. je trouve que le projet etait tres creatif et demontre que la technologie peut etre de bonne usure avec l'environnement
 
-![photo](media/plantation_studio.jpg)
+![photo](media/fuga_2.jpg)
+
+## .4 Prismatica ##
+
+Cree par Vincent, Ikrame et Jeremy, Prismatica est une installation interactive qui repose sur la chrosmesthesie, les sons etant percu par les couleurs. Grace a une camera connecter a TouchDesigner, elle analyse elle analyse depuis un tableau blanc se que l'utilisateur dessine. Chaque couleurs joue un son specifique basee sur le cercle chromatique transiformant le dessin en une experience multisensorielle dans laquelle les sons, les couleurs et les images fusionne.
+
+
 
 ## 7. Etheria ##
 
