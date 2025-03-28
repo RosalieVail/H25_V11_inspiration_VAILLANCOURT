@@ -94,6 +94,12 @@ Créé par Vincent, Ikrame et Jeremy, Prismatica est une installation intéracti
 
 ![photo](media/prisma_sombre.jpg)
 
+## Visuel ##
+
+L'installation repose sur la projection en temps réel des projects des utilisateurs. À la fin, le dessin s'efface progressivement, pour laisser place à la prochaine oeuvre.
+
+![photo](media/prisma_sombre.jpg)
+
 ## 7. Etheria ##
 
 Créé par Joshua, Victor, Michael, Pierre-Luc et Maik, Etheria est un projet interactif pixelisé qui nous présente un jeu de plusieurs manche. Les utilisateurs utilise des figures ou pions pour défendre une pierre des ennemies. De plus, le jeu se déroule dans un univers fantastique et des "power-ups" peuvent être récolter, mais rendre le jeu plus difficile.
