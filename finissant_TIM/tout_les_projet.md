@@ -132,7 +132,28 @@ Se projet est fonctionnel grace à:
 
 J'ai trouver le project très créatif. C'est un projet simple mais très amusant et apaisant avec la musique.
 
-![photo](media/image_acceuil_2.jpg)
+![photo](media/prisma_couleur.jpg)
+
+## C0N DU8 ##
+
+Créé par Ian, Samuel, Alexandre, Kevin, Jérémy, C0N DU8 est un jeu d'arcade. L'utilisateur prend contrôle d'un personnage, les plongeant dans une course. Les utlisateurs devront courser sur une piste, le personnage contrôler par un vrai velo que les gens doivent pédaler.
+
+![photo](media/prisma_couleur.jpg)
+
+Se projet est fonctionnel grace à:
+
+-Ordinateur
+
+-Vélo stationnaire
+
+-Deux haut-parleur
+
+-Projecteur
+
+
+
+
+
 
 ## 7. Etheria ##
 
