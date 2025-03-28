@@ -112,6 +112,26 @@ L'installation repose sur la projection en temps réel des projects des utilisat
 
 >**photo par l'équipe de Prismatica**
 
+Se projet est fonctionnel grace à:
+
+-Caméra
+
+-Projecteur lumière
+
+-Projecteur au mur
+
+-Haut-parleur
+
+-Câblage
+
+-Synthétiseur
+
+-Crayon feutre/Tableau blanc
+
+## Experience personelle ##
+
+J'ai trouver
+
 ## 7. Etheria ##
 
 Créé par Joshua, Victor, Michael, Pierre-Luc et Maik, Etheria est un projet interactif pixelisé qui nous présente un jeu de plusieurs manche. Les utilisateurs utilise des figures ou pions pour défendre une pierre des ennemies. De plus, le jeu se déroule dans un univers fantastique et des "power-ups" peuvent être récolter, mais rendre le jeu plus difficile.
