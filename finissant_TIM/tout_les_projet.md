@@ -78,9 +78,15 @@ Se projet est fonctionelle grace a:
 
 ## Visuel ##
 
-![photo](media/.jpg)
+![photo](media/plantation-side.png)
 
-![photo](media/.jpg)
+![photo](media/plantation_studio.jpg)
+
+## Experience personelle ##
+
+J'ai trouver l'experience tres relaxante et captivante a la fois. je trouve que le projet etait tres creatif et demontre que la technologie peut etre de bonne usure avec l'environnement
+
+![photo](media/plantation_studio.jpg)
 
 ## 7. Etheria ##
 
