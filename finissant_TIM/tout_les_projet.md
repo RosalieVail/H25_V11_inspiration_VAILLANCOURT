@@ -92,7 +92,7 @@ J'ai trouver l'experience tres relaxante et captivante a la fois. je trouve que 
 
 Cree par Vincent, Ikrame et Jeremy, Prismatica est une installation interactive qui repose sur la chrosmesthesie, les sons etant percu par les couleurs. Grace a une camera connecter a TouchDesigner, elle analyse elle analyse depuis un tableau blanc se que l'utilisateur dessine. Chaque couleurs joue un son specifique basee sur le cercle chromatique transiformant le dessin en une experience multisensorielle dans laquelle les sons, les couleurs et les images fusionne.
 
-
+![photo](media/prisma_sombre.jpg)
 
 ## 7. Etheria ##
 
