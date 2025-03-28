@@ -8,11 +8,11 @@ Du 17 au 21 mars, les élèves finissants de la Technique d'Introduction en Mult
 
 ## 2. Internature ##
 
-Cree par Khaly, Isaac, Delphine, Sitmontemna et Kenza, Internature est un tunnel interactif ou les visiteurs peuvent controler l'evolution des projections qui recree des plante en manipulant une sphere. Cette experience immersive, semblable au mythe de Sisyphe, nous presente une sphere que nous pouvons bouger et qui provoque la croissance de plantes qui sont projeter sur les parois du tunel. 
+Créé par Khaly, Isaac, Delphine, Sitmontemna et Kenza, Internature est un tunnel interactif où les visiteurs peuvent controler l'évolution des projections qui recréer des plantes en manipulant une sphère. Cette expérience immersive, semblable au mythe de Sisyphe, nous présente une sphère que nous pouvons bouger et qui provoque la croissance des plantes qui sont projetée sur les parois du tunel. 
 
-Se projet est fonctionnel grace a:
+Se projet est fonctionnel grace à:
 
--Un environnement renferme
+-Un environnement renfermé
 
 -Une surface pour la projection
 
@@ -20,31 +20,31 @@ Se projet est fonctionnel grace a:
 
 -Deux haut-parleur et une carte de son
 
--Une sphere
+-Une sphère
 
--Un support pour la sphere
+-Un support pour la sphère
 
 -Un ordinateur
 
 ## Visuel ##
 
-Dans cette experience interactive, lorsque la sphere est en mouvement, le mapping video va s'accroitre selon la direction de la sphere pour projeter des plante synthetique sur les parois du tunnel. Si l'uilisateur arrete, l'animation va donc regresser jusqu'a disparaitre jusqu'au prochain mouvement. De plus, lorsque la sphere est en mouvement, une musique qui diffusera un ambiance cakme et sombre se mettra a jouer en boucle.
+Dans cette expérience interactive, lorsque la sphère est en mouvement, le mapping video va s'accroitre selon la direction de la sphère pour projeter des plantes synthétique sur les parois du tunnel. Si l'uilisateur arrête, l'animation va donc régresser jusqu'à disparaitre jusqu'au prochain mouvement. De plus, lorsque la sphère est en mouvement, une musique qui diffusera un ambiance calme et sombre se mettra a jouer en boucle.
 
 ![photo](media/plantation_studio.jpg)
 
->**photo par l'equipe d'Internature**
+>**photo par l'équipe d'Internature**
 
 ![photo](media/plantation_sphere.jpg)
 
->**photo par l'equipe d'Internature**
+>**photo par l'équipe d'Internature**
 
 ![photo](media/plantation_serre_3d.jpg)
 
->**photo par l'equipe d'Internature**
+>**photo par l'équipe d'Internature**
 
 ## Experience personelle ##
 
-J'ai trouver l'experience tres agreable, j'ai trouver l'idee tres creative et bien fait. Je trouve que se projet immersif est tres apaisant mais aussi amusant a faire fonctionner.
+J'ai trouvé l'experience très agréable, j'ai trouvé l'idée très créative et bien fait. Je trouve que se projet immersif est très apaisant mais aussi amusant à faire fonctionner.
 
 ![photo](media/tyler_plantation.jpg)
 
@@ -52,19 +52,19 @@ J'ai trouver l'experience tres agreable, j'ai trouver l'idee tres creative et bi
 
 ## 3. Fuga ##
 
-Cree par Matis, Tristan, Daniel, Abdel, Yavuz, Fuga est une installation interactive permettant au utilisateur de creer une arbre en 3D en manipulant un generateur de signaux qui produit des sons, permettant la croissance de l'arbre. Les utilisateur peuvent exoerimenter les frequence et les parametre pour trouver le bon equilibre. Le projet permet un environnment calme et unique et demontre qu'on peut utiliser la technologie de maniere responsable et reflechie. 
+Créé par Matis, Tristan, Daniel, Abdel, Yavuz, Fuga est une installation intéractive permettant au utilisateur de créer un arbre en 3D en manipulant un générateur de signaux qui produit des sons, permettant la croissance de l'arbre. Les utilisateurs peuvent expérimenter les fréquences et les paramètres pour trouver le bon équilibre. Le projet permet un environnment calme et unique et demontre qu'on peut utiliser la technologie de manière responsable et réfléchie. 
 
 ![photo](media/fuga.jpg)
 
-Se projet est fonctionelle grace a:
+Se projet est fonctionelle grace à:
 
 -Instrument de musique
 
--Televisions
+-Télévisions
 
--Deux haut-parleur
+-Deux haut-parleurs
 
--Decor recycler
+-Décor recycler
 
 -Acessoir (Cable, support, carte audio/video)
 
@@ -80,29 +80,29 @@ Se projet est fonctionelle grace a:
 
 ![photo](media/plantation-side.png)
 
-![photo](media/plantation_studio.jpg)
+![photo](media/fuga-face.png)
 
 ## Experience personelle ##
 
-J'ai trouver l'experience tres relaxante et captivante a la fois. je trouve que le projet etait tres creatif et demontre que la technologie peut etre de bonne usure avec l'environnement
+J'ai trouver l'expérience très relaxante et captivante à la fois. Je trouve que le projet était très créatif et démontre que la technologie peut être de bonne usure avec l'environnement
 
 ![photo](media/fuga_2.jpg)
 
 ## .4 Prismatica ##
 
-Cree par Vincent, Ikrame et Jeremy, Prismatica est une installation interactive qui repose sur la chrosmesthesie, les sons etant percu par les couleurs. Grace a une camera connecter a TouchDesigner, elle analyse elle analyse depuis un tableau blanc se que l'utilisateur dessine. Chaque couleurs joue un son specifique basee sur le cercle chromatique transiformant le dessin en une experience multisensorielle dans laquelle les sons, les couleurs et les images fusionne.
+Créé par Vincent, Ikrame et Jeremy, Prismatica est une installation intéractive qui repose sur la chrosmesthesie, les sons étant perçu par les couleurs. Grâce à une camera connecter à TouchDesigner, elle analyse depuis un tableau blanc se que l'utilisateur dessine. Chaque couleurs joue un son specifique basée sur le cercle chromatique transformant le dessin en une expérience multisensorielle dans laquelle les sons, les couleurs et les images, fusionne.
 
 ![photo](media/prisma_sombre.jpg)
 
 ## 7. Etheria ##
 
-Cree par Joshua, Victor, Michael, Pierre-Luc et Maik, Etheria est un projet interactif pixeliser qui nous presente un jeu de plusieurs manche. Les utilisateurs utiliser des figures ou pions pour defendre une pierre des ennemies. De plus, le jeu se deroule dans un univers fantastique et des "power-up" peuvent etre recolter mais rendre le jeu plus difficile.
+Créé par Joshua, Victor, Michael, Pierre-Luc et Maik, Etheria est un projet interactif pixelisé qui nous présente un jeu de plusieurs manche. Les utilisateurs utilise des figures ou pions pour défendre une pierre des ennemies. De plus, le jeu se déroule dans un univers fantastique et des "power-ups" peuvent être récolter, mais rendre le jeu plus difficile.
 
-Cette activite interactive vise a creer un univers fantastique ou les utilisateurs doivent collaborer pour reussir le jeu
+Cette activité interactive vise à créer un univers fantastique ou les utilisateurs doivent collaborer pour réussir le jeu
 
 ![photo](media/jeu_table.jpg)
 
-Se projet est fonctionelle grace a:
+Se projet est fonctionelle grace à:
 
 -Capteur de mouvement
 
@@ -112,10 +112,10 @@ Se projet est fonctionelle grace a:
 
 -Deux haut-parleur
 
--Lumieres infrarouges/lumiere avec projecteur
+-Lumières infrarouges/lumière avec projecteur
 
 ![photo](media/jeu_fonctionnement.jpg)
 
 ## Experience personelle ##
 
-J'ai trouver le projet tres impressionant mais vers la fin, j'ai trouver que les manches etais longue et devenais un peut lassante.
+J'ai trouver le projet très impressionant mais vers la fin, j'ai trouvé que les manches étais longue et devenais un peut lassante.
