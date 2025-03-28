@@ -6,7 +6,7 @@ Du 17 au 21 mars, les élèves finissants de la Technique d'Introduction en Mult
 
 >[link]https://tim-montmorency.com/2025/#/
 
-## Internature ##
+## 2. Internature ##
 
 Cree par Khaly, Isaac, Delphine, Sitmontemna et Kenza, Internature est un tunnel interactif ou les visiteurs peuvent controler l'evolution des projections qui recree des plante en manipulant une sphere. Cette experience immersive, semblable au mythe de Sisyphe, nous presente une sphere que nous pouvons bouger et qui provoque la croissance de plantes qui sont projeter sur les parois du tunel. 
 
@@ -51,9 +51,42 @@ J'ai trouver l'experience tres agreable, j'ai trouver l'idee tres creative et bi
 >**photo par Rosalie Vaillancourt**
 
 
-## Etheria ##
+## 3. Fuga ##
+
+Cree par Matis, Tristan, Daniel, Abdel, Yavuz, Fuga est une installation interactive permettant au utilisateur de creer une arbre en 3D en manipulant un generateur de signaux qui produit des sons, permettant la croissance de l'arbre. Les utilisateur peuvent exoerimenter les frequence et les parametre pour trouver le bon equilibre. Le projet permet un environnment calme et unique et demontre qu'on peut utiliser la technologie de maniere responsable et reflechie. 
+
+![photo](media/tyler_plantation.jpg)
+
+
+
+
+
+
+
+
+
+## 7. Etheria ##
 
 Cree par Joshua, Victor, Michael, Pierre-Luc et Maik, Etheria est un projet interactif pixeliser qui nous presente un jeu de plusieurs manche. Les utilisateurs utiliser des figures ou pions pour defendre une pierre des ennemies. De plus, le jeu se deroule dans un univers fantastique et des "power-up" peuvent etre recolter mais rendre le jeu plus difficile.
 
 Cette activite interactive vise a creer un univers fantastique ou les utilisateurs doivent collaborer pour reussir le jeu
 
+![photo](media/jeu_table.jpg)
+
+Se projet est fonctionelle grace a:
+
+-Capteur de mouvement
+
+-Processeur
+
+-Ordinateur
+
+-Deux haut-parleur
+
+-Lumieres infrarouges/lumiere avec projecteur
+
+![photo](media/jeu_fonctionnement.jpg)
+
+## Experience personelle ##
+
+J'ai trouver le projet tres impressionant mais vers la fin, j'ai trouver que les manches etais longue et devenais un peut lassante.
