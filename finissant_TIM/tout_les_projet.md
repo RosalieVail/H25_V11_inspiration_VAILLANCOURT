@@ -170,7 +170,33 @@ J'ai trouver se projet très captivant et amusant. Je trouve que c'est le genre 
 
 Créé par Dominic, William et Anton, Arcadia est un project intéractif qui reproduit un jeux d'arcade et propose au utilisateur un voyage nostalique. Le bus d'Arcadia est de recréer un expérience authentique dans les salle d'arcade, avec des design rétro et un atmosphère vintage, rendent hommage au jeu pixéliser.
 
-![photo](media/velo_2.jpg)
+## Visuel ##
+
+![photo](media/borne1.jfif)
+
+>**photo par Rosalie Vaillancourt**
+
+![photo](media/borne2.jfif)
+
+>**photo par Rosalie Vaillancourt**
+
+Se projet est fonctionnel grace à:
+
+-Ordinateur
+
+-Manette
+
+-Amplificateur
+
+-Deux haut-parleur
+
+-Câble
+
+## Expérience personelle ##
+
+J'ai trouver le jeux amusant mais moins captivant que les autres. J'ai bien aimer le style rétro qui rappelais les jeux d'arcade et la borne finale. Le jeux étais bien mais il a moins retenue mon attention.
+
+![photo](media/borne1.jfif)
 
 ## 7. Etheria ##
 
