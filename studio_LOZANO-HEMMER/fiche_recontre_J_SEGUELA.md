@@ -1,5 +1,9 @@
-## Rafael Lozano-Hemmer ##
+## Une rencontre inspirante avec l'univers de Rafael Lozano-Hemmer ##
 
-Mardi le 25 mars, nous avons assister a une conférence en lien avec des oeuvre que Rafael Lozano-Hemer a creer. Jade Séguela ces rendu au collège Montmorency pour nous présenter plusieurs oeuvre d'arts de Rafael, un artiste multimedia canadien qui joint les technologies numériques à l’architecture afin de concevoir des installations performatives et interactives.
+Le mardi 25 mars, nous avons eu la chance d'assister à une conférence en lien avec les oeuvres de Rafael Lozano-Hemmer, un artiste multimédia canadien reconnu pour ses installations interactives mêlant art, architecture et technologies numériques. Cette présentation, donné par Jade Séguela au collège Montmorency, nous a permis de mieux comprendre l'univers créatif de cet artiste innovant.
 
-Elle nous a parler de sont parcours et comment Rafael la approcher pour lui offrir une place dans son equipe. Elle travaille dans l'entrepot, emballe et envoie les oeuvre d'art pour des exposition, des musées ou parfois des acheteur. Jade nous a présenter plusieurs projet donc 
+Durant la conférence, Jade Séguela nous a partagé son propre parcours professionnel. Elle nous a raconté comment Rafael l'a approché pour lui proposer une place dans son équipe. Depuis, elle emballe et expédie les oeuvres d'art vers des musées, des expositions ou des acheteurs. Elle nous a présenté plusieurs projects marquants de l'artiste, dont Sphere Packing: Bach. Cette oeuvre impressionnante prend la forme d'une sphère de trois mètres de hauteur, construite de bois et en aluminium, sur laquelle sont fixés 1128 haut-parleurs. Chacun d'eux diffuse une composition différente de Johann Sebastian Bach, créant une expérience sonore unique.
+
+Jade nous a également parlé d'autre projets fascinants comme Surface Tension ou Shadow Turner, qui illustrent tous deux le désir de Rafel de créer un dialogue entre le spectateur et l'oeuvre grâce à l'interactivité.
+
+En conclusion, cette conférence nous a permis de découvrir un artiste à la croisée de l'art et de la technologie. Grâce aux explications de Jade, nous avons mieux compris les coulisses de la création et de la diffusion de ces oeuvres innovantes et captivantes.
