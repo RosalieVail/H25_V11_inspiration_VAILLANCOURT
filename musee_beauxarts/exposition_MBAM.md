@@ -8,3 +8,11 @@ Cette installation de deux interprétation du *Concerto pour la main gauche* de 
 
 ## Mise en place ## 
 
+![photo](ecrans_Ravel_SLP.png)
+
+>**Photo par Sara Pop**
+
+![photo](entree_Ravel_SLP.png)
+
+
+
