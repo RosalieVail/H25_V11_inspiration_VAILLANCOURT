@@ -13,6 +13,8 @@ Cette installation de deux interprétation du *Concerto pour la main gauche* de 
 >**Photo par Sara Pop**
 
 ![photo](entree_Ravel_SLP.png)
+>**Photo par Sara Pop**
 
+À l'entrée de la salle, sur un mur, nous avons une présentation de l'arististe et pourquoi il a fait cette oeuvre
 
 
